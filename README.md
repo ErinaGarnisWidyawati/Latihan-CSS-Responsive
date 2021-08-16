@@ -7,8 +7,10 @@
 ![alt text](https://github.com/ErinaGarnisWidyawati/Latihan-CSS-Responsive/blob/main/Output/Output%20R.Grid%202.PNG)
 # Responsive Article
 ![alt text](https://github.com/ErinaGarnisWidyawati/Latihan-CSS-Responsive/blob/main/Output/Output%20R.Article.PNG)
-# Image Gallery
 ![alt text](https://github.com/ErinaGarnisWidyawati/Latihan-CSS-Responsive/blob/main/Output/Output%20R.Article%202.PNG)
+# Image Gallery
+![alt text](https://github.com/ErinaGarnisWidyawati/Latihan-CSS-Responsive/blob/main/Output/Output%20Image%20Gallery.PNG)
+![alt text](https://github.com/ErinaGarnisWidyawati/Latihan-CSS-Responsive/blob/main/Output/Output%20Image%20Gallery%202.PNG)
 # Responsive Template
 ![alt text](https://github.com/ErinaGarnisWidyawati/Latihan-CSS-Responsive/blob/main/Output/Output%20R.Template.PNG)
 ![alt text](https://github.com/ErinaGarnisWidyawati/Latihan-CSS-Responsive/blob/main/Output/Output%20R.Template%202.PNG)
